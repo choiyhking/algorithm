@@ -3,18 +3,21 @@
 ## 환경 세팅
 ### VSCode 설치 및 Github 연동
 https://code.visualstudio.com/download
+
 https://code.visualstudio.com/docs/cpp/config-mingw
 
 https://wikidocs.net/195273
+
 `ctrl+shift+p(or F1. i.e, command palette) -> `Git: Clone` -> `Clone from Github` -> repository 선택 -> local에 clone할 장소 선택(e.g., `C:\`)
 테스트 파일 생성 -> VSCode 좌측 source control -> `+` 눌러서 변경 사항 staging -> `commit` -> `Sync Changes`(pull&push)
 로그인 창 뜨면 ID & Personal Acess Token 입력
 Github Token 발급 받는 방법: https://inpa.tistory.com/entry/GitHub-%F0%9F%8F%9B%EF%B8%8F-%EA%B9%83%ED%97%99-%ED%86%A0%ED%81%B0-%EB%B0%9B%EA%B8%B0
+
 만약, 로그인 창이 안뜨고 아래와 같이 권한도 없다고 할 경우
-```
-you don't have permission to push to "choiyhking/algorithm" on Github. Would you like to create a fork and push to it instead?
-```
+`you don't have permission to push to "choiyhking/algorithm" on Github. Would you like to create a fork and push to it instead?`
+
 https://gonpress.tistory.com/57
+
 윈도우 검색: 자격 증명 관리 -> Windows 자격 증명 -> github 삭제 -> 다시 push 시도
 
 **VSCode C++ 관련 설정**
