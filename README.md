@@ -8,7 +8,7 @@ https://code.visualstudio.com/docs/cpp/config-mingw
 
 **VSCode C++ 관련 설정**
 
-C++관련 extensions install
+C++ extensions install
 
 Command Palette -> C/C++ Configurations
 - Compiler path: C:/msys64/ucrt64/bin/g++.exe
