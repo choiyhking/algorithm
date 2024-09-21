@@ -25,7 +25,7 @@ https://wikidocs.net/195273
 
 테스트 파일 생성 -> VSCode 좌측 source control -> `+` 눌러서 변경 사항 staging -> commit -> Sync Changes(pull&push)
 
-로그인 창 뜨면 ID & Personal Acess Token 입력
+로그인 창 뜨면 ID & Personal Access Token 입력
 
 Github Token 발급 받는 방법: https://inpa.tistory.com/entry/GitHub-%F0%9F%8F%9B%EF%B8%8F-%EA%B9%83%ED%97%99-%ED%86%A0%ED%81%B0-%EB%B0%9B%EA%B8%B0
 
