@@ -5,6 +5,16 @@
 https://code.visualstudio.com/download
 
 https://code.visualstudio.com/docs/cpp/config-mingw
+
+**VSCode C++ 관련 설정**
+Command Palette -> C/C++ Configurations
+- Compiler path: C:/msys64/ucrt64/bin/g++.exe
+- IntelliSense mode: windows-gcc-x64
+
+테스트 cpp 코드 -> RUN -> C++(GDB/LLDB) -> C/C++: g++.exe... 클릭
+
+만약 오류가 발생할 경우, `.vscode/task.json`에서 tasks.command.C:/msys64/ucrt64/bin/g++.exe 인지 확인
+
 ### Github 연동
 https://wikidocs.net/195273
 
@@ -23,15 +33,6 @@ Github Token 발급 받는 방법: https://inpa.tistory.com/entry/GitHub-%F0%9F%
 https://gonpress.tistory.com/57
 
 윈도우 검색: 자격 증명 관리 -> Windows 자격 증명 -> github 삭제 -> 다시 push 시도
-
-**VSCode C++ 관련 설정**
-Command Palette -> C/C++ Configurations
-- Compiler path: C:/msys64/ucrt64/bin/g++.exe
-- IntelliSense mode: windows-gcc-x64
-
-테스트 cpp 코드 -> RUN -> C++(GDB/LLDB) -> C/C++: g++.exe... 클릭
-
-만약 오류가 발생할 경우, `.vscode/task.json`에서 tasks.command.C:/msys64/ucrt64/bin/g++.exe 인지 확인
 
 ## 공부 방식
 ### 사용 언어
