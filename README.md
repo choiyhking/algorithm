@@ -16,7 +16,7 @@ Command Palette -> C/C++ Configurations
 
 테스트 cpp 코드 -> RUN -> C++(GDB/LLDB) -> C/C++: g++.exe... 클릭
 
-만약 오류가 발생할 경우, `.vscode/task.json`에서 `tasks.command.C:/msys64/ucrt64/bin/g++.exe` 인지 확인
+만약, 오류가 발생할 경우 `.vscode/task.json`에서 `tasks.command.C:/msys64/ucrt64/bin/g++.exe` 인지 확인
 
 ### Github 연동
 https://wikidocs.net/195273
