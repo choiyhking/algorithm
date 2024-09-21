@@ -11,8 +11,8 @@ https://code.visualstudio.com/docs/cpp/config-mingw
 C++ extensions 설치
 
 Command Palette -> C/C++ Configurations
-- Compiler path: C:/msys64/ucrt64/bin/g++.exe
-- IntelliSense mode: windows-gcc-x64
+- Compiler path: `C:/msys64/ucrt64/bin/g++.exe`
+- IntelliSense mode: `windows-gcc-x64`
 
 테스트 cpp 코드 -> RUN -> C++(GDB/LLDB) -> C/C++: g++.exe... 클릭
 
@@ -21,9 +21,9 @@ Command Palette -> C/C++ Configurations
 ### Github 연동
 https://wikidocs.net/195273
 
-`ctrl + shift + p`(or `F1`. i.e, command palette) -> `Git: Clone` -> `Clone from Github` -> repository 선택 -> local에 clone할 장소 선택(e.g., `C:\`)
+`ctrl + shift + p`(or `F1`. i.e, command palette) -> Git: Clone -> Clone from Github -> repository 선택 -> local에 clone할 장소 선택(e.g., `C:\`)
 
-테스트 파일 생성 -> VSCode 좌측 source control -> `+` 눌러서 변경 사항 staging -> `commit` -> `Sync Changes`(pull&push)
+테스트 파일 생성 -> VSCode 좌측 source control -> `+` 눌러서 변경 사항 staging -> commit -> Sync Changes(pull&push)
 
 로그인 창 뜨면 ID & Personal Acess Token 입력
 
