@@ -1,11 +1,11 @@
 # Algorithm Problem Solving
 
 ## 환경 세팅
-### VSCode 설치 및 Github 연동
+### VSCode 설치
 https://code.visualstudio.com/download
 
 https://code.visualstudio.com/docs/cpp/config-mingw
-
+### Github 연동
 https://wikidocs.net/195273
 
 `ctrl+shift+p(or F1. i.e, command palette) -> `Git: Clone` -> `Clone from Github` -> repository 선택 -> local에 clone할 장소 선택(e.g., `C:\`)
