@@ -7,6 +7,7 @@ https://code.visualstudio.com/download
 https://code.visualstudio.com/docs/cpp/config-mingw
 
 **VSCode C++ 관련 설정**
+
 C++관련 extensions install
 
 Command Palette -> C/C++ Configurations
